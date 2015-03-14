@@ -7,6 +7,7 @@ int main()
 {
     float x;
     int y = 0;
+    float z = 5;
     //cout << "Establishing Connection" << std::endl;
     fstream serial ("/dev/ttyACM0");
     //ofstream file ("Ash.txt",ios::out);
